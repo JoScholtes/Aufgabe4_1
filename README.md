@@ -17,3 +17,5 @@ Licée Nic-Biver
 ### Hochschule
 
 Hochschule Furtwangen
+
+!https://github.com/JoScholtes/Aufgabe4_1/blob/jo-zweig/IMG_9786.jpg
